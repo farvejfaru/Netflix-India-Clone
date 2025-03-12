@@ -27,9 +27,8 @@ Welcome to the Netflix Clone project! This is a sleek and responsive replica of 
    - Open `index.html` in your preferred browser to view the project.
 
 ## 🌐 Live Preview
-[👉 Click here to view the live preview](#)
+[👉 Click here to view the live preview](https://farvejfaru.github.io/Netflix-India-Clone/)
 
----
 
 ✨ **Happy Coding and Creating!** 🚀
 

@@ -26,9 +26,5 @@ Welcome to the Netflix Clone project! This is a sleek and responsive replica of 
 3. **Open in Browser**:
    - Open `index.html` in your preferred browser to view the project.
 
-## 🌐 Live Preview
-[👉 Click here to view the live preview](https://netfllix-india-clone.netlify.app/)
-
-
 ✨ **Happy Coding and Creating!** 🚀
 
